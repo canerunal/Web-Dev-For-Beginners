@@ -31,3 +31,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Credits: Thanks to the original version of this quiz app: https://github.com/arpan45/simple-quiz-vue
+
+Test
